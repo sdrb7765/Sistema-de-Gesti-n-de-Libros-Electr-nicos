@@ -1,2 +1,2 @@
-# Sistema-de-Gesti-n-de-Libros-Electr-nicos
+# Sistema-de-Gestion-de-Libros-Electronicos
 Sistema de Gestión de Libros Electrónicos
